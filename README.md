@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AtulPatidar
 - 👀 I’m interested in Coding Languages just like Core Java, PHP, HTML, CSS.
 - 🌱 I’m currently Completed My B-Tech From IPS Academy Institute of Eng. & Sci., Indore 
-- 💞️ I’m looking for a Job & wants to get some Experiance.
 - 📫 How to reach me -> Atulpatidar1709@gmail.com
 
 <!---
