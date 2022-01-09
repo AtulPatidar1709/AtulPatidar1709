@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AtulPatidar
-- 👀 I’m interested in Coding Languages just like Core Java,Node Js ,PHP, HTML, CSS.
+- 👀 I’m interested in Coding Languages just like HTML5,CSS,JS,JS5/JS6,React.js,NodeJs,MangoDB.
 - 🌱 I’m currently Completed My B-Tech From IPS Academy Institute of Eng. & Sci., Indore 
 - 📫 How to reach me -> Atulpatidar1709@gmail.com
 - More about Me -> https://atulpatidar.netlify.app/
