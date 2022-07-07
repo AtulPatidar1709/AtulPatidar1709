@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AtulPatidar
 - 👀 I’m interested in Coding Languages just like HTML5,CSS,JS,JS5/JS6,React.js,NodeJs,MangoDB.
-- 🌱 I’m recently Completed My B-Tech From IPS Academy Institute of Eng. & Sci., Indore 
+- 🌱 I recently Completed My B-Tech From IPS Academy Institute of Eng. & Sci., Indore 
 - 📫 How to reach me -> Atulpatidar1709@gmail.com
 - More about Me -> https://atulpatidar.netlify.app/
 <!---
