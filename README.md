@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/@atul4code" target="blank"><img src="https://img.shields.io/twitter/follow/@atul4code?logo=twitter&style=for-the-badge" alt="@atul4code" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://atulpatidar.netlify.app/](https://atulpatidar.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://atulpatidar.vercel.app/](https://atulpatidar.vercel.app/)
 
 - 📝 I regularly write articles on [https://bloggercollages.blogspot.com/](https://bloggercollages.blogspot.com/)
 
