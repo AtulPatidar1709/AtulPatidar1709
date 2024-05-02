@@ -5,9 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://atulpatidar.vercel.app/](https://atulpatidar.vercel.app/)
 
-- 📝 I regularly write articles on [https://bloggercollages.blogspot.com/](https://bloggercollages.blogspot.com/)
-
-- 💬 Ask me about **React, JavaScript, MonodgoDb, Html5 etc.**
+- 💬 Ask me about **Nextjs, React, JavaScript, TypeScript, MonodgoDb, Html5 etc.**
 
 - 📫 How to reach me **Atulpatidar1709@gmail.com**
 
