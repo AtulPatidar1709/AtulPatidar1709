@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atul Patidar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/@atul4code" target="blank"><img src="https://img.shields.io/twitter/follow/@atul4code?logo=twitter&style=for-the-badge" alt="@atul4code" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@atul4code" target="blank"><img src="https://img.shields.io/twitter/follow/atul4code?logo=twitter&style=for-the-badge" alt="atul4code" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://atulpatidar.vercel.app/](https://atulpatidar.vercel.app/)
 
