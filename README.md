@@ -9,7 +9,7 @@ Full Stack Web Developer with solid MERN & Java Spring Boot skills and a DevOps 
 * 🌍  I'm based in Indore, India
 * 🖥️  See my portfolio at [Portfolio](http://atulpatidar.vercel.app/)
 * ✉️  You can contact me at [atulpatidar1709@gmail.com](mailto:atulpatidar1709@gmail.com)
-* 🧠  I'm learning MERN, Java, Spring-Boot,Docker, Kubernetes, AWS.
+* 🧠  I'm learning MERN, Java, Spring-Boot, Docker, Kubernetes, AWS.
 
 ### Skills
 
