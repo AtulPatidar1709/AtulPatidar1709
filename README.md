@@ -5,9 +5,9 @@
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atulpatidar09/)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Atul1709/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atulpatidar1709@gmail.com)
   [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10152360/atul-patidar)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Atul1709/)
   [![Portfolio](https://img.shields.io/badge/My_Portfolio-6C63FF?style=for-the-badge&logo=ko-fi&logoColor=white)](https://atulpatidar.vercel.app/)
 
   
@@ -69,8 +69,8 @@ const atul = {
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=AtulPatidar1709&repo=TourTrove&theme=tokyonight&hide_border=true)](https://github.com/AtulPatidar1709/your-repo-name)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=AtulPatidar1709&repo=visonspace&theme=tokyonight&hide_border=true)](https://github.com/AtulPatidar1709/your-repo-name)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=AtulPatidar1709&repo=TourTrove&theme=tokyonight&hide_border=true)](https://github.com/AtulPatidar1709/TourTrove)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=AtulPatidar1709&repo=visonspace&theme=tokyonight&hide_border=true)](https://github.com/AtulPatidar1709/visonspace)
 
 </div>
 
