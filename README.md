@@ -76,13 +76,6 @@ const atul = {
 
 ---
 
-## 📈 Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
 ## 🎯 Current Focus
 
 - 🔭 Working on scalable full-stack applications
